@@ -16,7 +16,7 @@ Non-Lambertian-LF contains four scenes with ground truth disparity range [-0.41,
 - "Foggy Mine" is a set of images of mine scenes with different concentrations of fog. The concentration of fog in the mine gradually increased from 0% to 80%. This set of data is used to test the robustness of different concentration of fog.
 
 ### Data Link
-Data is publicly available in [Baiduyun](https://pan.baidu.com/s/1rMLxu1vY8l8yrAtTw7r_Ig?pwd=ms87) and [Google](https://drive.google.com/file/d/1obKkSmINfBHFaQK8MVtf-dKfbQnp31Sx/view?usp=share_link).
+Data is publicly available in [Google](https://drive.google.com/file/d/1TpaFrs_NVAG2biCuhpWm7CXlLO66GCzh/view?usp=drive_link).
 
 <br/>
 
